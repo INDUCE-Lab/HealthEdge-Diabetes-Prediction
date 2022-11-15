@@ -16,10 +16,11 @@ The major conrributions of this work are as follows:
 
 ## Cite this work
 
-Coming Soon
+Coming Soon..
 
 ## References
 
+- Leila Ismail, Alain Hennebelle, Huned Materwalaa, Juma Al Kaabie, Priya Ranjan, Rajiv Janardhanan, Secure and Privacy-Preserving Automated End-to-End Integrated IoT-Edge-Artificial Intelligence-Blockchain Monitoring System for Diabetes Mellitus Prediction (Coming soon ...)
 - Ismail, L., Materwala, H., Tayefi, M. et al. Type 2 Diabetes with Artificial Intelligence Machine Learning: Methods and Evaluation. Arch Computat Methods Eng 29, 313–333 (2022). https://doi.org/10.1007/s11831-021-09582-x
 - Ismail, Leila, and Huned Materwala. "IDMPF: intelligent diabetes mellitus prediction framework using machine learning." Applied Computing and Informatics (2021). https://www.emerald.com/insight/content/doi/10.1108/ACI-10-2020-0094/full/html
 - Leila Ismail, Huned Materwala, Juma Al Kaabi,
