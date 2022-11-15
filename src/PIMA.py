@@ -53,8 +53,8 @@ def pima_data_prep(df = None, do_balance = False):
     return X, y ,X_train, X_test, y_train, y_test
 
 
-
-def test_model2(model,X,y, verbose=False, n_splits=10):
+# Utility function to train and evaluate a model on PIMA dataset
+def train_and_evaluate_model(model,X,y, verbose=False, n_splits=10):
     acc = 0
     auc = 0
     f1 = 0
@@ -101,15 +101,17 @@ rf_tuned_nofs_nobl = RandomForestClassifier(max_depth = 5,  max_features = None,
                         criterion = 'entropy', n_estimators = 100, random_state=123)
 
 
-# dataset with No feature Selection No balancing
+# Prepare dataset with No feature Selection No balancing
 X,y, X_train, X_test, y_train, y_test = pima_data_prep(dataset, do_balance=False)
 
-# train and evaluate
-test_model2(rf_tuned_nofs_nobl, X, y, verbose=False)
+#  Train and evaluate the Random Forest Model
+train_and_evaluate_model(rf_tuned_nofs_nobl, X, y, verbose=False)
 
 
+# Do prediction (example) with the trained model
 y_pred = rf_tuned_nofs_nobl.predict(X_test)
-        
+
+# if We have the labels with can also evaluate the prediction        
 acc1 = accuracy_score(y_test, y_pred)
 auc1 = roc_auc_score(y_test, y_pred, average="macro")
 f11 = f1_score(y_test, y_pred, average="macro")
@@ -119,5 +121,4 @@ print ('acc', acc1)
 print('f1', f11)
 print('recall1', recall1)
 print('auc1', auc1)
-
 
