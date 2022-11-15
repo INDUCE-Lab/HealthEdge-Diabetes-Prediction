@@ -4,7 +4,7 @@
 
 Diabetes Mellitus, one of the leading causes of death worldwide, has no cure till date and can lead to severe health complications if left untreated.  Consequently, it becomes crucial to take precautionary measures to avoid/predict the occurrence of diabetes.  Machine learning approaches have been proposed and evaluated in the literature for diabetes prediction.  However, there exists no end-to-end diabetes prediction system.  This work proposes an Artificial Intelligence (AI)-blockchain system for diabetes prediction based on risk factors.  The proposed system is underpinned by the IoT-Edge-Cloud Computing and blockchain to obtain a cohesive view of the risk factors data from patients across different hospitals and to ensure security and privacy of the user’s data.
 
-##About this work
+## About this work
 
 The major conrributions of this work are as follows:
 
