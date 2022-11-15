@@ -1,2 +1,1 @@
-# HealthEdge-Diabetes-Prediction
-Abstract
+# HealthEdge-Diabetes-Predictio
