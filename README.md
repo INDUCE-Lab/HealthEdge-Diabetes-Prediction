@@ -8,7 +8,7 @@ Diabetes Mellitus, one of the leading causes of death worldwide, has no cure til
 
 The major conrributions of this work are as follows:
 
-- A simplified end-to-end framework for the monitoring of risk factors and prediction of diabetes for users.
+- A end-to-end framework for the monitoring of risk factors and prediction of diabetes for users.
 - Design and Architecture of an end-to-end system for monitoring and prediction of diabetes risk.
 - Development of a prototype for diabetes risk factors monitoring and prediction in IoT-Edge integrated system..
 - Implementation of an authentication mechanism and a block-chain technique to ensure that data is protected.
