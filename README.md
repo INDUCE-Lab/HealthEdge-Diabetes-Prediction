@@ -16,7 +16,8 @@ The major conrributions of this work are as follows:
 
 ## Cite this work
 
-Coming Soon..
+Ismail, Leila, Alain Hennebelle, Huned Materwala, Juma Al Kaabi, Priya Ranjan, and Rajiv Janardhanan. "Secure and Privacy-Preserving Automated End-to-End Integrated IoT-Edge-Artificial Intelligence-Blockchain Monitoring System for Diabetes Mellitus Prediction." arXiv preprint arXiv:2211.07643 (2022).  https://arxiv.org/abs/2211.07643 
+
 
 ## References
 
