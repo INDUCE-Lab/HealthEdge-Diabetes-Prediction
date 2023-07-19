@@ -16,7 +16,7 @@ The major conrributions of this work are as follows:
 
 ## Cite this work
 
-Hennebelle, Alain, Huned Materwala, and Leila Ismail. "HealthEdge: a machine learning-based smart healthcare framework for prediction of type 2 diabetes in an integrated IoT, edge, and cloud computing system." Procedia Computer Science 220 (2023): 331-338
+Hennebelle, Alain, Huned Materwala, and Leila Ismail. "HealthEdge: a machine learning-based smart healthcare framework for prediction of type 2 diabetes in an integrated IoT, edge, and cloud computing system." Procedia Computer Science 220 (2023): 331-338. https://www.sciencedirect.com/science/article/pii/S1877050923005781 
 
 Ismail, Leila, Alain Hennebelle, Huned Materwala, Juma Al Kaabi, Priya Ranjan, and Rajiv Janardhanan. "Secure and Privacy-Preserving Automated End-to-End Integrated IoT-Edge-Artificial Intelligence-Blockchain Monitoring System for Diabetes Mellitus Prediction." arXiv preprint arXiv:2211.07643 (2022).  https://arxiv.org/abs/2211.07643 
 
